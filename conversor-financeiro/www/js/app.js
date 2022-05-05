@@ -1,3 +1,4 @@
+// CÓDIGO DA API
 function ConverterRealDolar(){
     let reais = document.querySelector('#reais').value
     let dolar = 0
